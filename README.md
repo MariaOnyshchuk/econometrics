@@ -9,4 +9,4 @@ Mykhailo Ponomarenko
 You can find the dataset and the additional source files with all information here:
 https://survey.stackoverflow.co/
 
-Look into the file final.ipynb, where the data preprocessing, plots of the data and models are provided.
+Look into the file **dev_compensations.ipynb**__, where the data preprocessing, plots of the data and models are provided.
